@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">DevChallenges - 404 Not Found</h1>
+<h1 align="center">Devchallenges - My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://sorowar-cse.github.io/404-Not-Found/">
+    <a href="https://sorowar-cse.github.io/My-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/sorowar-cse/404-Not-Found">
+    <a href="https://github.com/sorowar-cse/My-team-page">
       Solution
     </a>
     <span> | </span>
@@ -36,30 +36,29 @@
 
 ## Overview
 
-![Screenshot](https://github.com/sorowar-cse/404-Not-Found/assets/76944781/f1a4d2b0-0be8-4846-aabb-047d795bca89)
 
-"404 NOT FOUND" is a project aimed at improving the user experience of website visitors who encounter a 404 error page, indicating that the requested page could not be found. Rather than displaying a generic error message, the project focuses on creating a more engaging and informative experience for the users.
+![Screenshot](https://github.com/sorowar-cse/My-team-page/assets/76944781/49a4006d-8939-4328-86c8-bb09e093c106)
+
+The "Devchallenges - My team page" project is a responsive web page that aims to showcase a team and provide information about its members. The goal is to create an appealing and functional layout that adapts seamlessly to different devices, ensuring an optimal user experience. To achieve responsiveness, HTML and CSS are utilized. HTML provides the structure and content of the web page, while CSS handles the presentation, including colors, fonts, spacing, and layout. CSS media queries are employed to define different styles and layout rules for different screen sizes, enabling the web page to adapt and respond accordingly. By completing the "Devchallenges - My team page" project, the developer,  [Sorowar Mahabub](https://github.com/sorowar-cse) gains experience in building responsive web pages, enhances their understanding of HTML and CSS, and hones their skills in creating visually appealing and user-friendly interfaces.
 
 - Where can I see your demo?
 
-  : You can experience the "404 NOT FOUND" demo by visiting our website at examplewebsite.com/404.
+  : You can experience the "Devchallenges - My team page" demo by visiting the following link:   [Devchallenges - My team page by Sorowar- See Demo](https://sorowar-cse.github.io/My-team-page/). There, you'll be able to explore the layout and design of the responsive web page I created..
 
 - What was your experience?
 
-  : Our team worked tirelessly to design an interactive and visually appealing 404 error page. We aimed to provide users with a sense of exploration and discovery while they navigate through the error page.
+  : Throughout the development of the "Devchallenges - My team page," I had an immersive and engaging experience. I started by analyzing the project requirements and sketching out the layout. Then, I dove into coding using HTML and CSS, ensuring that the page was aesthetically pleasing and functional across various devices.
 
 - What have you learned/improved?
 
-  : During the development process, we learned the importance of clear and concise messaging on error pages. We improved our understanding of user expectations when encountering errors and focused on creating a seamless transition from the error page back to the main website.
-
-Additionally, we enhanced our skills in web design and user experience (UX) by implementing intuitive navigation, helpful error descriptions, and relevant suggestions to guide users back to the desired content.
+  : During this project, I gained valuable experience in building responsive web pages. I focused on implementing mobile-first design principles and utilizing CSS media queries to adapt the layout for different screen sizes. By doing so, I improved my skills in creating user-friendly interfaces that provide an optimal viewing experience on various devices, from smartphones to desktops. Additionally, I enhanced my understanding of HTML and CSS, refining my knowledge of semantic markup, CSS styling techniques, and the overall structure of web pages. By adhering to best practices and standards, I aimed to deliver clean and maintainable code.
 
 - Your wisdom?
 
-  : Through this project, I realized that even errors can be an opportunity for engagement. By transforming a frustrating experience into an enjoyable one, I can leave a positive impression on users and strengthen their connection to the website. Remember, every interaction counts, and every error page can be an opportunity to showcase creativity and empathy.
+  : Throughout this project, I've learned that continuous learning and improvement are key. Embracing challenges and working on practical projects, such as the "Devchallenges - My team page," provides opportunities to expand knowledge and skills. Collaboration, creativity, and attention to detail are essential in delivering high-quality projects. Remember to seek inspiration, stay up to date with industry trends, and enjoy the process of building meaningful web experiences.
 
 Dear Visitors,
-I hope this description offers insight into the concept and goals of the "404 NOT FOUND" project.
+I hope this description offers insight into the concept and goals of the  [Devchallenges - My team page by Sorowar](https://sorowar-cse.github.io/My-team-page/) project.
 
 ### Built With
 
