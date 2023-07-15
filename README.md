@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">DevChallenges - 404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://sorowar-cse.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/sorowar-cse/404-Not-Found">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -36,28 +36,43 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot](https://github.com/sorowar-cse/404-Not-Found/assets/76944781/f1a4d2b0-0be8-4846-aabb-047d795bca89)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+"404 NOT FOUND" is a project aimed at improving the user experience of website visitors who encounter a 404 error page, indicating that the requested page could not be found. Rather than displaying a generic error message, the project focuses on creating a more engaging and informative experience for the users.
 
 - Where can I see your demo?
+
+  : You can experience the "404 NOT FOUND" demo by visiting our website at examplewebsite.com/404.
+
 - What was your experience?
+
+  : Our team worked tirelessly to design an interactive and visually appealing 404 error page. We aimed to provide users with a sense of exploration and discovery while they navigate through the error page.
+
 - What have you learned/improved?
-- Your wisdom? :)
+
+  : During the development process, we learned the importance of clear and concise messaging on error pages. We improved our understanding of user expectations when encountering errors and focused on creating a seamless transition from the error page back to the main website.
+
+Additionally, we enhanced our skills in web design and user experience (UX) by implementing intuitive navigation, helpful error descriptions, and relevant suggestions to guide users back to the desired content.
+
+- Your wisdom?
+
+  : Through this project, I realized that even errors can be an opportunity for engagement. By transforming a frustrating experience into an enjoyable one, I can leave a positive impression on users and strengthen their connection to the website. Remember, every interaction counts, and every error page can be an opportunity to showcase creativity and empathy.
+
+Dear Visitors,
+I hope this description offers insight into the concept and goals of the "404 NOT FOUND" project.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
 ## Acknowledgements
@@ -70,6 +85,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [My Website](https://sorowar-cse.netlify.app/)
+- GitHub [Visit My Github Profile](https://github.com/sorowar-cse)
+- Twitter [My Twitter](https://twitter.com/sorowarmahabub)
