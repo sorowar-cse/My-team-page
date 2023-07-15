@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+
+body {
+    background: #FAFAFA;
+    margin: 0 auto;
+    padding: 50PX 125PX;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.header .header-right {
+    width: 50%;
+    padding: 0px 30px;
+}
+
+.header .header-left h1 {
+    color: #000;
+    font-family: PT Serif;
+    font-size: 54px;
+    font-weight: 700;
+}
+
+.header .header-right h3 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-top: 30px;
+}
+
+.header .header-right p {
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    width: 65%;
+}
+
+/* .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 200px;
+} */
+
+.row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    padding-top: 75px;
+    padding-bottom: 200px;
+    gap: 50px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.row .row-image-card {
+    width: 350px;
+    height: 300px;
+}
+
+.row .row-image-card img {
+    width: 90%;
+}
+
+.row .row-image-card h3 {
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: poppins;
+}
+
+.row .row-image-card p {
+    color: #000;
+    font-family: PT Serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    transform: rotate(90deg);
+    transform-origin: right top 0;
+    margin-top: -168px;
+}
+
+.card-midle {
+    margin-top: 100px;
+}
+
+.uper-card {
+    padding-bottom: 200px;
+}
+
+footer p {
+    padding-top: 50px;
+    color: #BDBDBD;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+footer a {
+    color: #BDBDBD;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+/* Responsive Design for Mobile Devices */
+
+@media screen and (max-width: 768px) {
+    body {
+        padding: 30px 15px;
+    }
+
+    .header {
+        flex-direction: column;
+    }
+
+    .header .header-right {
+        width: 100%;
+        padding: 0px;
+        margin-top: -20px;
+    }
+
+    .header .header-left h1 {
+        font-size: 45px;
+        margin-bottom: 0px;
+    }
+
+    .header .header-right h3 {
+        font-size: 24px;
+        width: 100%;
+        margin-top: 0px;
+    }
+
+    .header .header-right p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .row {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 25px;
+        padding-top: 25px;
+        padding-bottom: 100px;
+    }
+
+    .row .row-image-card {
+        width: 90%;
+        height: 200px;
+    }
+
+    .row .row-image-card img {
+        width: 90%;
+    }
+
+    .row .row-image-card h3 {
+        font-size: 14px;
+    }
+
+    .row .row-image-card p {
+        font-size: 10px;
+        margin-top: -100px;
+    }
+
+    .card-midle {
+        margin-top: 0px;
+    }
+
+    .uper-card {
+        padding-bottom: 100px;
+    }
+
+    .down-card {
+        margin-top: 100px;
+    }
+
+    .special-card {
+        margin-top: 0px;
+    }
+
+    footer p {
+        font-size: 12px;
+    }
+
+    footer a {
+        font-size: 12px;
+    }
+}
